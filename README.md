@@ -1,7 +1,9 @@
 # PTT-Notifier-Bot
 ## 機器人連結
 
-https://ptb.discord.com/oauth2/authorize?client_id=1491292481533378631
+https://dub.sh/VrznNbN
+
+※ 如果設定上一直出現錯誤，請先把機器人踢出伺服器後，重新加入
 
 ## 實際成果
 
